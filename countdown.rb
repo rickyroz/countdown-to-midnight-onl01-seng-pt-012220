@@ -14,4 +14,4 @@ def countdown_with_sleep(num)
 end
 
 
-countdown_with_sleep 9
+countdown_with_sleep 4
